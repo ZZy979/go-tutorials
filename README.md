@@ -8,3 +8,4 @@
 * [helloworld](helloworld)：打印消息、调用外部包
 * [greetings](greetings)：提供问候语消息函数的模块（包括错误处理、切片、映射、单元测试）
 * [hello](hello)：调用greetings模块打印问候语
+* [generics](generics)：泛型
