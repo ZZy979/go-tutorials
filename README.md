@@ -10,3 +10,4 @@
 * [hello](hello)：调用greetings模块打印问候语
 * [generics](generics)：泛型
 * [data-access](data-access)：访问数据库
+* [web-service-gin](web-service-gin)：RESTful API Web服务
