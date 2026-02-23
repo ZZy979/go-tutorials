@@ -20,3 +20,4 @@
   * [内置类型](tour/moretypes)
   * [方法和接口](tour/methods)
   * [泛型](tour/generics)
+  * [并发](tour/concurrency)
